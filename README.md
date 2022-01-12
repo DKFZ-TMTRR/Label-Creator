@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/Label-Creator.svg?color=green)](https://python.org)
 
 
-A Plugin for generation of Label-Layers according to selected image data shapes.
+A napari plugin for generation of Label-Layers according to selected image data shapes.
 
 ----------------------------------
 

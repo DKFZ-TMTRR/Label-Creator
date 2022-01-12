@@ -29,7 +29,7 @@ setup(
     author='Marc Boucsein, Robin Koch',
     license='BSD-3',
     url='https://github.com/MBPhys/Label-Creator',
-    description='A Plugin for generation of Label-Layers according to selected image data shapes',
+    description='A napari plugin for generation of Label-Layers according to selected image data shapes',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     packages=find_packages(),
