@@ -59,6 +59,7 @@ def Creator(viewer: 'napari.viewer.Viewer') -> Future[LayerDataTuple]:
                    LayerdataTuple[1].pop('interpolation')
                    LayerdataTuple[1].pop('iso_threshold')
                    LayerdataTuple[1].pop('attenuation')
+                   LayerdataTuple[1].pop('rendering')
                    LayerdataTuple[1].pop('gamma')
                    LayerdataTuple[2]='labels'
                    LayerdataTuple_new=tuple(LayerdataTuple)
